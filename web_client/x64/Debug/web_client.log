@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  Function.cpp
+c:\users\this pc\source\repos\[ mmt ]\web_client\web_client\function.cpp(8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\this pc\source\repos\[ mmt ]\web_client\web_client\function.cpp(14): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\this pc\source\repos\[ mmt ]\web_client\web_client\function.cpp(17): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\this pc\source\repos\[ mmt ]\web_client\web_client\function.cpp(302): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\this pc\source\repos\[ mmt ]\web_client\web_client\function.cpp(477): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\this pc\source\repos\[ mmt ]\web_client\web_client\function.cpp(491): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\this pc\source\repos\[ mmt ]\web_client\web_client\function.cpp(575): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  web_client.cpp
+  Generating Code...
+  web_client.vcxproj -> C:\Users\this pc\source\repos\[ mmt ]\web_client\x64\Debug\web_client.exe
