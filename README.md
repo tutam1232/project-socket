@@ -5,4 +5,5 @@
 - web_client.sln: solution
 
 =============== Topic ===============
+
 https://docs.google.com/document/d/1mjws5-vU9mzq9QgmrwzM3hi9A93vp77mgJK-Cjmy5Cs/edit
